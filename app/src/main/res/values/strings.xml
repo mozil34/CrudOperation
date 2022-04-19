@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrudOperation</string>
+    <string name="create">CREATE</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
